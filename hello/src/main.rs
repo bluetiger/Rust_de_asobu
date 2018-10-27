@@ -1,4 +1,3 @@
-
 fn main(){
     
     let scan = std::io::stdin();

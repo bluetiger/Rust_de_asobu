@@ -1,0 +1,6 @@
+[package]
+name = "hello"
+version = "0.1.0"
+authors = ["DESKTOP-QIV1JHP\\bluetiger <a>"]
+
+[dependencies]
